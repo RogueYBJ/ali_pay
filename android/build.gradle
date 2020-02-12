@@ -15,7 +15,7 @@ buildscript {
 rootProject.allprojects {
     repositories {
         flatDir {
-            dirs '/Users/rogue/Desktop/libs'
+            dirs 'libs'
         }
         google()
         jcenter()
